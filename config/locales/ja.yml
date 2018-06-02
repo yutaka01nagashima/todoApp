@@ -6,13 +6,12 @@ ja:
    
    about_x_hours:
     　   %{count}時間
-      
-      
-   x_days:
-    　 %{count}日
-    　
    x_months:
     　   %{count}ヶ月
     　
    x_weeks:
     　   %{count}週
+   x_minutes:
+    　   %{count}分
+   x_days:
+    　   %{count}日
