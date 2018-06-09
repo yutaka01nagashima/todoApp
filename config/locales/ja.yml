@@ -1,6 +1,6 @@
 ja:
   will_paginate:
-    previous_label: "前に戻る"
+    previous_label: "前へ"
     next_label: "次へ"
   datetime:
     distance_in_words:
